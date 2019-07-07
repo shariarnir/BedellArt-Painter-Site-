@@ -1,0 +1,4 @@
+[01-May-2018 23:25:40] PHP Parse error:  syntax error, unexpected T_STRING in /home1/jaxlaw/bedellart.com/work/mail.php on line 24
+[03-May-2018 08:47:58] PHP Parse error:  syntax error, unexpected ')' in /home1/jaxlaw/bedellart.com/work/mail.php on line 78
+[03-May-2018 08:49:20] PHP Parse error:  syntax error, unexpected ')' in /home1/jaxlaw/bedellart.com/work/mail.php on line 78
+[04-May-2018 05:57:03] PHP Parse error:  syntax error, unexpected '[', expecting T_VARIABLE or '$' in /home1/jaxlaw/bedellart.com/work/mail.php on line 53

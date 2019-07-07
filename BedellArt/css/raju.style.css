@@ -1,0 +1,178 @@
+*{ margin: 0; padding: 0; }
+.clear{
+  overflow:hidden;
+}
+
+#foooter .container{
+  
+}
+#foooter .container a{
+  color: #777777;
+  text-decoration: none;
+}
+
+#footer{
+  background:#FFFFFF;
+}
+#footer .container .row .class_one{
+  width:33%;
+  border-top:1px solid #DDDDDD;
+  border-bottom:1px solid #DDDDDD;
+  border-right:1px solid #DDDDDD;
+}
+#footer .container .row .class_one h4{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 20px;
+}
+#footer .container .row .class_one p{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0px
+}
+#footer .container .row .class_one p a{
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    padding-bottom: 49px;
+    color:#777777;
+}
+#footer .container .row .class_two{
+  width:33%;
+  border-top:1px solid #DDDDDD;
+  border-bottom:1px solid #DDDDDD;
+  border-right:1px solid #DDDDDD;
+}
+#footer .container .row .class_two h4{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 20px;
+}
+#footer .container .row .class_two p{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0px
+}
+#footer .container .row .class_two p a{
+    font-size: 18px;
+    margin-bottom: 84px;
+    margin-top: 20px;
+}
+#footer .container .row .class_three{
+  width:33%;
+  border-top:1px solid #DDDDDD;
+  border-bottom:1px solid #DDDDDD;
+ 
+}
+#footer .container .row .class_three .text-muted{
+    color: #777;
+    padding-top: 70px;
+    margin-bottom: 7px;
+    font-size: 15px;
+    padding-bottom: 10px;
+ 
+}
+#footer .container .row .class_three .input-group{
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    padding-bottom: 61px;
+}
+#footer .social a.facebook:hover {
+  background-color: #777777;
+}
+#footer .social a.gplus:hover {
+  background-color: #777777;
+}
+#footer .social a.twitter:hover {
+  background-color: #777777;
+}
+#footer .social a.instagram:hover {
+  background-color: #777777;
+}
+#footer .social a.email:hover {
+  background-color: #777777;
+}
+#footer .social a.pinterest:hover {
+  background-color: #777777;
+}
+
+#copyright {
+  background: #fff;
+    color: #ccc;
+    padding: 20px 0;
+    font-size: 16px;
+    padding-bottom: 40px;
+    padding-top: 100px;
+    border-top: 1px solid #DBDBDB;
+}
+
+#copyright .container .col-md-12 ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+#copyright .container .col-md-12 ul li{
+  display:block;
+  float:left;
+}
+#copyright .container .col-md-12 ul li a{
+  text-decoration:none;
+  padding-right:10px;
+  color:#bbbbbb;
+  margin-left:20px;
+  padding-left:20px;
+}
+#copyright .container .col-md-12 ul li a:hover{
+  color:#B39999;
+  
+}
+.footer_nav{
+  text-align: center;
+}
+.footer_nav a{
+  padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

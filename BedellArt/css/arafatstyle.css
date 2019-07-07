@@ -1,0 +1,37 @@
+*{margin:0;padding:0;outline:0;}
+
+.producviewsection{
+	
+}
+
+.procdutsigleimage img{
+	
+	padding:120px;
+	border-style:solid;
+	position: relative;
+}
+
+
+
+.productmultipleimage img{ 
+		float:middle;
+		padding:10px;
+}
+.note.a{
+	    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #bbbbbb;
+    position: relative;
+    padding-left: 28px;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+	
+	
+}
+
+
+.productdetailsidebar{
+	
+}
